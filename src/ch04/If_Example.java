@@ -1,4 +1,4 @@
-package rest.ch04;
+package test.ch04;
 
 public class If_Example {
 
